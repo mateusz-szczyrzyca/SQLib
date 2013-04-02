@@ -1,6 +1,10 @@
-To install type:
+To install it type:
 
 	perl Makefile.PL
 	make
 	make test
 	make install
+
+You may also use the CPAN if you prefer:
+
+        cpan SQLib
